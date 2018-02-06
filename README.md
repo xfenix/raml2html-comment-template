@@ -14,4 +14,7 @@ Screenshots:
 1. Clone this repo
 1. Register new disqus comments instance for your domain
 1. Open index.nunjucks and replace ``YOUR_DISQUS_DOMAIN`` with your disqus domain (you get it while diqsus registration)
-1. Use it like this ``raml2html --template raml2html-comments-template/index.nunjucks api.raml > index.html``
+1. Generate documentation from raml like this ``raml2html --template raml2html-comments-template/index.nunjucks api.raml > index.html``
+1. Use your new shiny documenation with comments
+1. ???
+1. Profit
